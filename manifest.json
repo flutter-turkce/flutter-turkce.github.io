@@ -1,11 +1,11 @@
 {
-    "name": "flutter_turkce",
-    "short_name": "flutter_turkce",
+    "name": "Fluter Türkçe",
+    "short_name": "Fluter Türkçe",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Fluter Türkçe",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
